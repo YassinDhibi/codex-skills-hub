@@ -39,4 +39,3 @@ Keep pull requests focused. Include:
 - validation output;
 - any licensing or compatibility notes.
 
-

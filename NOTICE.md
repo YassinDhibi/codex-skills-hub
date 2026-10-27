@@ -16,4 +16,3 @@ Third-party projects retain their own copyright, trademarks, and licenses. Users
 
 The generated project hero artwork and the original organization, scripts, and documentation in this repository are part of Codex Skills Hub.
 
-

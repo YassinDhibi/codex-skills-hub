@@ -18,4 +18,3 @@ Codex Skills Hub is a catalog and installer. A listed skill may contain instruct
 
 The catalog's presence is not a security endorsement of every upstream integration.
 
-
